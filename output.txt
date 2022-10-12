@@ -1,5 +1,4 @@
-Leap Year
-Leap Year
-Leap Year
-Not Leap Year
-Leap Year
+1 
+1 3 5 7 
+None
+
