@@ -1,3 +1,2 @@
-Automorphic
-Automorphic
-Not Automorphic
+2
+1
